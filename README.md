@@ -1,6 +1,6 @@
 <!-- Profile README for: lucascstro -->
 
-<h1 align="center">Lucas Dhanilo do Nascimento Castro</h1>
+<h1 align="center">Lucas Castro</h1>
 <p align="center">
   Desenvolvedor Full Stack • C# / .NET • SQL • Azure • CI/CD • Docker
 </p>
