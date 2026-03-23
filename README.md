@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:lukas.castro@live.com">lukas.castro@live.com</a> •
-  <a href="mailto:lukas.castro231@gmail.com">lukas.castro231@gmail.com</a> •
+  <a href="mailto:lukas.castro231@gmail.com">lukas.castro231@gmail.com</a>
 </p>
 
 <p align="center">
