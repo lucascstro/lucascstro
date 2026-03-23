@@ -149,9 +149,3 @@ team/product serving <b>20k+ users</b>.
 </details>
 
 <hr />
-
-<p align="center">
-  <sub>
-    Se quiser, eu adapto este README com: badges, links (LinkedIn/portfólio), seção de projetos fixados e/ou GitHub Stats.
-  </sub>
-</p>
