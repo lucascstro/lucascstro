@@ -143,7 +143,7 @@ team/product serving <b>20k+ users</b>.
   <summary><b>🎓 Education</b></summary>
   <ul>
     <li><b>MBA in Software Engineering</b> — Impacta College (Feb/2024 – Aug/2025)</li>
-    <li><b>BSc in Information Systems</b> — São Judas Tadeu University (Aug/2018 – Aug/2022)</li>
+    <li><b>Bachelor's Degree in Information Systems</b> — São Judas Tadeu University (Aug/2018 – Aug/2022)</li>
     <li><b>IT Technical Program (integrated)</b> — IFPA (2014 – 2018)</li>
   </ul>
 </details>
