@@ -2,12 +2,11 @@
 
 <h1 align="center">Lucas Castro</h1>
 <p align="center">
-  Desenvolvedor Full Stack • C# / .NET • SQL • Azure • CI/CD • Docker
+  Desenvolvedor C# / .NET • Angular  • Flutter • SQL • NoSql • Azure • CI/CD • Docker
 </p>
 
 <p align="center">
-  <a href="mailto:lukas.castro@live.com">lukas.castro@live.com</a> •
-  <a href="mailto:lukas.castro231@gmail.com">lukas.castro231@gmail.com</a>
+  <a href="mailto:lukas.castro@live.com">lukas.castro@live.com</a>
 </p>
 
 <p align="center">
@@ -22,7 +21,7 @@
 
 <p>
 Sou desenvolvedor <b>Full Stack</b> com foco no ecossistema Microsoft (<b>C# / .NET</b>) e experiência com
-<b>SQL Server</b>, <b>Azure</b> e <b>CI/CD</b>. Atuo há cerca de 5 anos construindo, mantendo e modernizando
+<b>SQL Server e Oralce</b>, <b>Azure</b> e <b>CI/CD</b>. Atuo há cerca de 5 anos construindo, mantendo e modernizando
 <b>aplicações Web</b>, <b>APIs</b> e soluções corporativas — sempre buscando um código limpo, escalável e fácil de manter.
 </p>
 
@@ -53,7 +52,7 @@ mais de <b>20k usuários</b>.
   </tr>
   <tr>
     <td><b>Banco de Dados</b></td>
-    <td>SQL Server (Stored Procedures) • Oracle</td>
+    <td>SQL Server • Oracle • NoSql</td>
   </tr>
   <tr>
     <td><b>Cloud / DevOps</b></td>
