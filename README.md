@@ -2,7 +2,7 @@
 
 <h1 align="center">Lucas Castro</h1>
 <p align="center">
-  Desenvolvedor C# / .NET • Angular  • Flutter • SQL • NoSql • Azure • CI/CD • Docker
+  Desenvolvedor C# / .NET • SQL • NoSql • Azure • CI/CD • Docker
 </p>
 
 <p align="center">
